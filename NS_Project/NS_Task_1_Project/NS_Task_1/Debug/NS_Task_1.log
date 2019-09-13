@@ -1,0 +1,12 @@
+﻿  NS_Task_1.cpp
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.h(25): error C2062: type 'unsigned char' unexpected
+  NS_Task_1_Sandbox.cpp
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.h(25): error C2062: type 'unsigned char' unexpected
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(620): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'short'
+  a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(620): note: The initializer contains too many elements
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(621): error C3863: array type 'char [50]' is not assignable
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(657): error C2120: 'void' illegal with all types
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(657): error C2062: type 'char' unexpected
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(658): error C2143: syntax error: missing ';' before '{'
+a:\programming software\e-yantra past\task 1\ns_project\ns_task_1_project\ns_task_1\ns_task_1_sandbox.cpp(658): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
